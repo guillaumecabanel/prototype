@@ -1,0 +1,15 @@
+site:
+  title: Prototype
+  title_separator: •
+  description: 'le prototype votre application Web'
+  i18n: fr
+  geo:
+    placename: 'Nantes'
+    position: 47.218371, -1.553621
+    region: FR-44
+  url: ''
+  twitter_card_img: ''
+  author: Guillaume Cabanel
+
+social:
+  twitter: 'guicabanel'
