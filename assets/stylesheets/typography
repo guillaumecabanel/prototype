@@ -1,0 +1,2 @@
+.has-text-letter-spaced {
+  letter-spacing: .2rem; }
