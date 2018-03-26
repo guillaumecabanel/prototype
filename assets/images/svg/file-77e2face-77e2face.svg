@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100.00001"
+   id="svg4385"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="file.svg">
+  <defs
+     id="defs4387" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="6.1344486"
+     inkscape:cy="35.765494"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4390">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-276.00714,-479.93363)">
+    <g
+       transform="translate(161.15714,332.93363)"
+       id="g5">
+      <g
+         id="g7">
+        <polygon
+           style="fill:#ebeded"
+           points="165.4,168 128,168 128,236 182,236 182,184.8 "
+           id="polygon9" />
+      </g>
+      <polyline
+         style="fill:#ffffff;stroke:#5b6b75;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10"
+         stroke-miterlimit="10"
+         points="156.5,160    156.5,177.5 174,177.5  "
+         id="polyline11" />
+      <g
+         id="g13">
+        <polygon
+           style="fill:none;stroke:#5b6b75;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10"
+           stroke-miterlimit="10"
+           points="156.4,159.5 119.5,159.5 119.5,227.5 173.5,227.5 173.5,176.8 "
+           id="polygon15" />
+      </g>
+      <line
+         style="fill:none;stroke:#ffb808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         stroke-miterlimit="10"
+         x1="130"
+         y1="191.5"
+         x2="163"
+         y2="191.5"
+         id="line17" />
+      <line
+         style="fill:none;stroke:#ffb808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         stroke-miterlimit="10"
+         x1="130"
+         y1="202.5"
+         x2="163"
+         y2="202.5"
+         id="line19" />
+      <line
+         style="fill:none;stroke:#ffb808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         stroke-miterlimit="10"
+         x1="130"
+         y1="213.5"
+         x2="163"
+         y2="213.5"
+         id="line21" />
+      <g
+         id="g23">
+        <path
+           style="fill:#f5f7f7"
+           inkscape:connector-curvature="0"
+           d="m 210.8,176.6 -4,-4 c -0.6,-0.6 -1.4,-0.9 -2.1,-0.9 -0.7,0 -1.5,0.3 -2.1,0.9 l -3.6,3.6 -1.8,-1.8 c -0.6,-0.6 -1.4,-0.9 -2.1,-0.9 -0.8,0 -1.5,0.3 -2.1,0.9 l -13.4,13.4 c -0.6,0.6 -0.9,1.3 -0.9,2.1 0,0.8 0.3,1.6 0.9,2.1 l 1.8,1.8 -11.4,11.4 c -0.3,0.3 -0.6,0.7 -0.7,1.2 l -2,6 c -0.4,1.1 -0.1,2.3 0.7,3.1 0.6,0.6 1.3,0.9 2.1,0.9 0.3,0 0.6,-0.1 0.9,-0.2 l 3,-1 c 2.9,-1 4.2,-1.4 4.7,-2.3 l 32.1,-32.1 c 0.6,-0.6 0.9,-1.3 0.9,-2.1 0,-0.8 -0.3,-1.6 -0.9,-2.1 z"
+           id="path25" />
+        <g
+           id="g27">
+          <g
+             id="g29">
+            <g
+               id="g31">
+              <rect
+                 style="fill:#ffb808"
+                 x="185.8"
+                 y="177.10001"
+                 transform="matrix(0.7072,0.7071,-0.7071,0.7072,192.9058,-76.3305)"
+                 width="5.6999998"
+                 height="35.200001"
+                 id="rect33" />
+              <line
+                 style="fill:none;stroke:#5b6b75;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 stroke-miterlimit="10"
+                 x1="195"
+                 y1="178.5"
+                 x2="183.60001"
+                 y2="190"
+                 id="line35" />
+              <polygon
+                 style="fill:#5b6b75"
+                 points="172,207.3 170,213.3 176,211.3 "
+                 id="polygon37" />
+            </g>
+            <rect
+               style="fill:#ffb808"
+               x="202.10001"
+               y="175.89999"
+               transform="matrix(0.7072,0.7071,-0.7071,0.7072,186.1422,-92.6573)"
+               width="5.6999998"
+               height="4.9000001"
+               id="rect39" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
