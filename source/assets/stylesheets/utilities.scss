@@ -1,9 +1,13 @@
 body{
-  background-color: $black-ter;
   min-height: 100vh;
   padding-top: 10vh;
+  background-color: $black-ter;
 }
 
 .is-25vh{
   height: 25vh;
+}
+
+.has-white-ter-background{
+  background-color: $white-ter;
 }

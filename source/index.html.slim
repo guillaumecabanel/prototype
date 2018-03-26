@@ -4,6 +4,7 @@ description: 'Nous concevons le prototype votre application Web'
 twitter_card_img: ''
 ---
 
+
 .section.container
   h1.title.is-1.has-text-weight-light.has-text-white-ter.has-text-centered
     span.has-text-weight-normal Entrepreneur
@@ -21,30 +22,31 @@ twitter_card_img: ''
 .section.container
   .columns.is-centered
     .column.is-half.is-narrow.has-text-centered
-      = link_to 'Discutons de votre projet', 'https://frama.link/prototype', class: 'button is-large is-warning'
+      = link_to 'Discutons de votre projet', 'https://frama.link/prototype', class: 'button is-large is-warning is-outlined'
 
-.section.container
-  .columns
-    .column.is-two-fifths
-      h2.title.is-3.has-text-weight-light.has-text-white-ter
-        | Une approche
-        span.has-text-weight-normal< pertinente
+.has-white-ter-background
+  .section.container
+    .columns
+      .column.is-two-fifths
+        h2.title.is-3.has-text-weight-light
+          | Une approche
+          span.has-text-weight-normal< pertinente
 
-      p.is-size-4.has-text-weight-light.has-text-white-ter.has-text-justified
-        | Nous proposons notre expertise pour vous accompagner dans la réalisation d'un véritable
-        = link_to 'https://fr.wikipedia.org/wiki/Produit_minimum_viable', class: 'has-text-warning', target: '_blank' do
-          abbr.has-text-weight-normal< title="Minimum Viable Product" M.V.P.
+        p.is-size-4.has-text-weight-light.has-text-justified
+          | Nous proposons notre expertise pour vous accompagner dans la réalisation d'un véritable
+          = link_to 'https://fr.wikipedia.org/wiki/Produit_minimum_viable', class: 'has-text-warning', target: '_blank' do
+            abbr.has-text-weight-normal< title="Minimum Viable Product" M.V.P.
 
-      p.is-size-4.has-text-weight-light.has-text-white-ter.has-text-justified
-        | En se concentrant sur votre
-        span.has-text-weight-normal< valeur ajouté
-        | , nous éliminons les fonctionnalités superflues pour créér rapidement un produit
-        span.has-text-weight-normal<> économique
-        | et
-        span.has-text-weight-normal< maîtrisé.
+        p.is-size-4.has-text-weight-light.has-text-justified
+          | En se concentrant sur votre
+          span.has-text-weight-normal< valeur ajouté
+          | , nous éliminons les fonctionnalités superflues pour créér rapidement un produit
+          span.has-text-weight-normal<> économique
+          | et
+          span.has-text-weight-normal< maîtrisé.
 
-    .column.has-text-centered
-      = image_tag 'svg/lab.svg', class: 'is-25vh'
+      .column.has-text-centered
+        = image_tag 'svg/lab.svg', class: 'is-25vh'
 
 .section.container
   .columns
@@ -65,32 +67,22 @@ twitter_card_img: ''
         | et
         span.has-text-weight-normal< adaptatif.
 
-.section.container
-  .columns
-    .column.is-two-fifths
-      h2.title.is-3.has-text-weight-light.has-text-white-ter
-        | Une équipe
-        span.has-text-weight-normal< Nantaise
+.has-white-ter-background
+  .section.container
+    .columns
+      .column.is-two-fifths
+        h2.title.is-3.has-text-weight-light
+          | Une équipe
+          span.has-text-weight-normal< Nantaise
 
-      p.is-size-4.has-text-weight-light.has-text-white-ter.has-text-justified
-        | Nous sommes basé à Nantes et rassemblons des enseignants et des anciens élèves du
-        =< link_to 'Wagon', 'https://www.lewagon.com/nantes', class: 'has-text-warning has-text-weight-normal', target: '_blank'
-        | .
-    .column.has-text-centered
-        = image_tag 'svg/wagon-logo.svg', id: 'wagon-logo', class: 'is-25vh'
+        p.is-size-4.has-text-weight-light.has-text-justified
+          | Nous sommes basé à Nantes et rassemblons des enseignants et des anciens élèves du
+          =< link_to 'Wagon', 'https://www.lewagon.com/nantes', class: 'has-text-warning has-text-weight-normal', target: '_blank'
+          | .
+      .column.has-text-centered
+          = image_tag 'svg/wagon-logo.svg', id: 'wagon-logo', class: 'is-25vh'
 
-  / .columns.is-centered
-    .column.is-half.is-narrow.has-text-centered
-      = image_tag 'svg/flow.svg'
-      .columns
-        .column
-          p.has-text-weight-light.has-text-white-ter.has-text-centered
-            span.has-text-weight-normal> liste
-            | des fonctionnalités à développer
-        .column
-          p.has-text-weight-light.has-text-white-ter.has-text-centered
-            | développement
-        .column
-          p.has-text-weight-light.has-text-white-ter.has-text-centered
-            span.has-text-weight-normal> retours
-            | sur les fonctionnalités développées
+  .section.container
+    .columns.is-centered
+      .column.is-half.is-narrow.has-text-centered
+        = link_to 'Discutons de votre projet', 'https://frama.link/prototype', class: 'button is-large is-warning'
