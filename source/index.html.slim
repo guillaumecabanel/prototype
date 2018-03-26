@@ -4,33 +4,82 @@ description: 'Nous concevons le prototype votre application Web'
 twitter_card_img: ''
 ---
 
-.container
+.section.container
   h1.title.is-1.has-text-weight-light.has-text-white-ter.has-text-centered
-    | nous concevons le
-    span.has-text-weight-normal<> PROTOTYPE
+    span.has-text-weight-normal Entrepreneur
+    | , vous avez besoin de tester votre
+    span.has-text-weight-normal<> produit
+    | ?
+    br
+    br
+    | Nous concevons le
+    span.has-text-weight-normal.has-text-letter-spaced<> PROTOTYPE
     br
     | de votre
     span.has-text-weight-normal< Application Web
 
+.section.container
   .columns.is-centered
     .column.is-half.is-narrow.has-text-centered
+      = link_to 'Discutons de votre projet', 'https://frama.link/prototype', class: 'button is-large is-warning'
+
+.section.container
+  .columns
+    .column.is-two-fifths
+      h2.title.is-3.has-text-weight-light.has-text-white-ter
+        | Une approche
+        span.has-text-weight-normal< pertinente
+
+      p.is-size-4.has-text-weight-light.has-text-white-ter.has-text-justified
+        | Nous proposons notre expertise pour vous accompagner dans la réalisation d'un véritable
+        = link_to 'https://fr.wikipedia.org/wiki/Produit_minimum_viable', class: 'has-text-warning', target: '_blank' do
+          abbr.has-text-weight-normal< title="Minimum Viable Product" M.V.P.
+
+      p.is-size-4.has-text-weight-light.has-text-white-ter.has-text-justified
+        | En se concentrant sur votre
+        span.has-text-weight-normal< valeur ajouté
+        | , nous éliminons les fonctionnalités superflues pour créér rapidement un produit
+        span.has-text-weight-normal<> économique
+        | et
+        span.has-text-weight-normal< maîtrisé.
+
+    .column.has-text-centered
       = image_tag 'svg/lab.svg', class: 'is-25vh'
 
-  .columns.is-centered
-    .column.is-half.is-narrow.has-text-centered
-      = link_to 'En savoir plus', 'https://frama.link/prototype', class: 'button is-warning'
+.section.container
+  .columns
+    .column.has-text-centered
+      = image_tag 'svg/settings.svg', class: 'is-25vh'
+    .column.is-two-fifths
+      h2.title.is-3.has-text-weight-light.has-text-white-ter
+        | Une méthode
+        span.has-text-weight-normal< Agile
 
-  h2.title.is-4.has-text-weight-light.has-text-white-ter.has-text-centered
-    | développement par cycle
-    span.has-text-weight-normal< court
-    | ,
-    span.has-text-weight-normal< itératif
-    | ,
-    span.has-text-weight-normal<> incrémental
-    | et
-    span.has-text-weight-normal< adaptatif
+      p.is-size-4.has-text-weight-light.has-text-white-ter.has-text-justified
+        | Nous développons par cycle
+        span.has-text-weight-normal< court
+        | ,
+        span.has-text-weight-normal< itératif
+        | ,
+        span.has-text-weight-normal<> incrémental
+        | et
+        span.has-text-weight-normal< adaptatif.
 
-  .columns.is-centered
+.section.container
+  .columns
+    .column.is-two-fifths
+      h2.title.is-3.has-text-weight-light.has-text-white-ter
+        | Une équipe
+        span.has-text-weight-normal< Nantaise
+
+      p.is-size-4.has-text-weight-light.has-text-white-ter.has-text-justified
+        | Nous sommes basé à Nantes et rassemblons des enseignants et des anciens élèves du
+        =< link_to 'Wagon', 'https://www.lewagon.com/nantes', class: 'has-text-warning has-text-weight-normal', target: '_blank'
+        | .
+    .column.has-text-centered
+        = image_tag 'svg/wagon-logo.svg', id: 'wagon-logo', class: 'is-25vh'
+
+  / .columns.is-centered
     .column.is-half.is-narrow.has-text-centered
       = image_tag 'svg/flow.svg'
       .columns

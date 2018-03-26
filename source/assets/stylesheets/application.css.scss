@@ -4,3 +4,11 @@
 @import "custom-variables";
 @import "../../../node_modules/bulma/bulma";
 @import "utilities";
+@import "typography";
+
+
+#wagon-logo{
+  background: #D23333;
+  border-radius: 50%;
+  padding: 7px;
+}
