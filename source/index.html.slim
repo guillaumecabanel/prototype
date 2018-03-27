@@ -22,7 +22,7 @@ twitter_card_img: ''
 .section.container
   .columns.is-centered
     .column.is-half.is-narrow.has-text-centered
-      = link_to 'Discutons de votre projet', 'https://frama.link/prototype', class: 'button is-large is-warning is-outlined'
+      = partial :cta_button, locals: { outlined: true }
 
 .has-white-ter-background
   .section.container
@@ -76,7 +76,7 @@ twitter_card_img: ''
           span.has-text-weight-normal< Nantaise
 
         p.is-size-4.has-text-weight-light.has-text-justified
-          | Nous sommes basé à Nantes et rassemblons des enseignants et des anciens élèves du
+          | Nous sommes basés à Nantes et rassemblons des enseignants et des anciens élèves du
           =< link_to 'Wagon', 'https://www.lewagon.com/nantes', class: 'has-text-warning has-text-weight-normal', target: '_blank'
           | .
       .column.has-text-centered
@@ -85,4 +85,4 @@ twitter_card_img: ''
   .section.container
     .columns.is-centered
       .column.is-half.is-narrow.has-text-centered
-        = link_to 'Discutons de votre projet', 'https://frama.link/prototype', class: 'button is-large is-warning'
+        = partial :cta_button, locals: { outlined: false }
