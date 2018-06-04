@@ -1,0 +1,80 @@
+<svg width="181" height="181" viewBox="0 0 181 181" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 2</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(72 -1249)">
+<g id="Group 2">
+<g id="Group" filter="url(#filter0_d)">
+<g id="Ellipse">
+<use xlink:href="#path0_fill" transform="translate(-66 1251)" fill="#F5F7F7"/>
+</g>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="translate(-13 1321.5)" fill="#EBEDED"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="translate(-13 1364.8)" fill="#EBEDED"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_stroke" transform="translate(-13 1343.1)" fill="#EBEDED"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="translate(-21 1313.5)" fill="#5B6B75"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path4_stroke" transform="translate(35.3 1335.1)" fill="#5B6B75"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="translate(-21 1356.8)" fill="#5B6B75"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path5_fill" transform="translate(-19.1 1302)" fill="#F5F7F7"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path6_fill" transform="translate(-15.1 1305.9)" fill="#FFFFFF"/>
+<use xlink:href="#path7_stroke" transform="translate(-15.1 1305.9)" fill="#5B6B75"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path8_fill" transform="translate(-19.1 1345.6)" fill="#F5F7F7"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path9_fill" transform="translate(-15.1 1349.6)" fill="#FFFFFF"/>
+<use xlink:href="#path10_stroke" transform="translate(-15.1 1349.6)" fill="#5B6B75"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_stroke" transform="translate(-21 1335.1)" fill="#FFB808"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path11_fill" transform="translate(24.9 1324)" fill="#F5F7F7"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path6_fill" transform="translate(28.9 1327.9)" fill="#FFFFFF"/>
+<use xlink:href="#path7_stroke" transform="translate(28.9 1327.9)" fill="#5B6B75"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-72" y="1249" width="181" height="181" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="3"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.1 0 0 0 0 0.1 0 0 0 0 0.1 0 0 0 0.6 0"/>
+<feBlend mode="darken" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 169 84.5C 169 131.168 131.168 169 84.5 169C 37.8319 169 0 131.168 0 84.5C 0 37.8319 37.8319 0 84.5 0C 131.168 0 169 37.8319 169 84.5Z"/>
+<path id="path1_stroke" d="M -6.10352e-06 -1.5C -0.828433 -1.5 -1.50001 -0.828427 -1.50001 0C -1.50001 0.828427 -0.828433 1.5 -6.10352e-06 1.5L -6.10352e-06 -1.5ZM 70.2 1.5C 71.0284 1.5 71.7 0.828427 71.7 0C 71.7 -0.828427 71.0284 -1.5 70.2 -1.5L 70.2 1.5ZM -6.10352e-06 1.5L 70.2 1.5L 70.2 -1.5L -6.10352e-06 -1.5L -6.10352e-06 1.5Z"/>
+<path id="path2_stroke" d="M -6.10352e-06 -1.50001C -0.828433 -1.50001 -1.50001 -0.828439 -1.50001 -1.2207e-05C -1.50001 0.828415 -0.828433 1.49999 -6.10352e-06 1.49999L -6.10352e-06 -1.50001ZM 70.2 1.49999C 71.0284 1.49999 71.7 0.828415 71.7 -1.2207e-05C 71.7 -0.828439 71.0284 -1.50001 70.2 -1.50001L 70.2 1.49999ZM -6.10352e-06 1.49999L 70.2 1.49999L 70.2 -1.50001L -6.10352e-06 -1.50001L -6.10352e-06 1.49999Z"/>
+<path id="path3_stroke" d="M 57.1 1.50001C 57.9284 1.50001 58.6 0.828433 58.6 6.10352e-06C 58.6 -0.828421 57.9284 -1.49999 57.1 -1.49999L 57.1 1.50001ZM -6.10352e-06 -1.49999C -0.828433 -1.49999 -1.50001 -0.828421 -1.50001 6.10352e-06C -1.50001 0.828433 -0.828433 1.50001 -6.10352e-06 1.50001L -6.10352e-06 -1.49999ZM 57.1 -1.49999L -6.10352e-06 -1.49999L -6.10352e-06 1.50001L 57.1 1.50001L 57.1 -1.49999Z"/>
+<path id="path4_stroke" d="M 1.2207e-05 -1.49999C -0.828415 -1.49999 -1.49999 -0.828421 -1.49999 6.10352e-06C -1.49999 0.828433 -0.828415 1.50001 1.2207e-05 1.50001L 1.2207e-05 -1.49999ZM 13.9 1.50001C 14.7284 1.50001 15.4 0.828433 15.4 6.10352e-06C 15.4 -0.828421 14.7284 -1.49999 13.9 -1.49999L 13.9 1.50001ZM 1.2207e-05 1.50001L 13.9 1.50001L 13.9 -1.49999L 1.2207e-05 -1.49999L 1.2207e-05 1.50001Z"/>
+<path id="path5_fill" d="M 11.2 22.4C 5 22.4 -1.2207e-05 17.4 -1.2207e-05 11.2C -1.2207e-05 5.00001 5 0 11.2 0C 17.4 0 22.4 5.00001 22.4 11.2C 22.4 17.4 17.4 22.4 11.2 22.4Z"/>
+<path id="path6_fill" d="M 7.2 14.4C 11.1764 14.4 14.4 11.1765 14.4 7.20001C 14.4 3.22356 11.1764 -6.10352e-06 7.2 -6.10352e-06C 3.22355 -6.10352e-06 -1.2207e-05 3.22356 -1.2207e-05 7.20001C -1.2207e-05 11.1765 3.22355 14.4 7.2 14.4Z"/>
+<path id="path7_stroke" d="M 12.9 7.20001C 12.9 10.348 10.348 12.9 7.2 12.9L 7.2 15.9C 12.0049 15.9 15.9 12.0049 15.9 7.20001L 12.9 7.20001ZM 7.2 12.9C 4.05197 12.9 1.49999 10.348 1.49999 7.20001L -1.50001 7.20001C -1.50001 12.0049 2.39513 15.9 7.2 15.9L 7.2 12.9ZM 1.49999 7.20001C 1.49999 4.05198 4.05198 1.49999 7.2 1.49999L 7.2 -1.50001C 2.39512 -1.50001 -1.50001 2.39513 -1.50001 7.20001L 1.49999 7.20001ZM 7.2 1.49999C 10.348 1.49999 12.9 4.05198 12.9 7.20001L 15.9 7.20001C 15.9 2.39513 12.0049 -1.50001 7.2 -1.50001L 7.2 1.49999Z"/>
+<path id="path8_fill" d="M 11.2 22.4C 5 22.4 -1.2207e-05 17.4 -1.2207e-05 11.2C -1.2207e-05 4.99999 5 6.10352e-06 11.2 6.10352e-06C 17.4 6.10352e-06 22.4 4.99999 22.4 11.2C 22.4 17.4 17.4 22.4 11.2 22.4Z"/>
+<path id="path9_fill" d="M 7.2 14.4C 11.1764 14.4 14.4 11.1764 14.4 7.19999C 14.4 3.22354 11.1764 6.10352e-06 7.2 6.10352e-06C 3.22355 6.10352e-06 -1.2207e-05 3.22354 -1.2207e-05 7.19999C -1.2207e-05 11.1764 3.22355 14.4 7.2 14.4Z"/>
+<path id="path10_stroke" d="M 12.9 7.19999C 12.9 10.348 10.348 12.9 7.2 12.9L 7.2 15.9C 12.0049 15.9 15.9 12.0049 15.9 7.19999L 12.9 7.19999ZM 7.2 12.9C 4.05198 12.9 1.49999 10.348 1.49999 7.19999L -1.50001 7.19999C -1.50001 12.0049 2.39512 15.9 7.2 15.9L 7.2 12.9ZM 1.49999 7.19999C 1.49999 4.05197 4.05197 1.50001 7.2 1.50001L 7.2 -1.49999C 2.39513 -1.49999 -1.50001 2.3951 -1.50001 7.19999L 1.49999 7.19999ZM 7.2 1.50001C 10.348 1.50001 12.9 4.05197 12.9 7.19999L 15.9 7.19999C 15.9 2.3951 12.0049 -1.49999 7.2 -1.49999L 7.2 1.50001Z"/>
+<path id="path11_fill" d="M 11.2 22.4C 5 22.4 -1.2207e-05 17.4 -1.2207e-05 11.2C -1.2207e-05 5.00001 5 0 11.2 0C 17.4 0 22.4 5.00001 22.4 11.2C 22.4 17.3 17.4 22.4 11.2 22.4Z"/>
+</defs>
+</svg>
